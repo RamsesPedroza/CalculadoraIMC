@@ -72,7 +72,7 @@ calculadora_imc/➡️
 
  calculadora_imc.py ➡️ # Archivo principal del proyecto
  README.md ➡️          # Documentación del proyecto
------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar este proyecto, no dudes en abrir un issue o enviar un pull request.
@@ -80,3 +80,17 @@ Contribuciones
 Licencia
 
 Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo LICENSE para más información.
+------------------------------------------------------------------------------------------------
+El aprendizaje de Python en un bootcamp me ha dejado una serie de habilidades y conocimientos que son clave para mi desarrollo profesional. A continuación, destaco lo más relevante:
+
+Fundamentos sólidos de programación
+Aprendí conceptos fundamentales como variables, estructuras de control (condicionales, bucles), funciones y manejo de errores, lo cual me proporciona una base sólida para abordar cualquier tipo de desarrollo en programación.
+
+Desarrollo de proyectos prácticos
+A través de la creación de proyectos reales, pude aplicar lo aprendido y mejorar mis habilidades en resolución de problemas. Esto también me ayudó a construir un portafolio con proyectos funcionales.
+
+Conocimiento de bibliotecas y frameworks populares
+Aprendí a utilizar herramientas poderosas de Python, como Django, Flask, Pandas, y TensorFlow, que me permiten desarrollar desde aplicaciones web hasta proyectos de ciencia de datos e inteligencia artificial.
+
+Confianza para enfrentar retos técnicos
+A medida que desarrollaba proyectos y superaba obstáculos, fui ganando confianza en mis habilidades para enfrentar cualquier desafío técnico que se presente en el futuro.
