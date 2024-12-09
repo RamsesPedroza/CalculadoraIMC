@@ -1,4 +1,4 @@
-Este proyecto es una calculadora sencilla de Índice de Masa Corporal (IMC) desarrollada en Python. El IMC es una medida utilizada para evaluar si una persona tiene un peso adecuado en relación con su altura.
+Este proyecto es una calculadora sencilla de Índice de Masa Corporal (IMC) desarrollada en Python.
 ------------------------------------------------------------------------------------------------
 Funcionalidades🔗
 
