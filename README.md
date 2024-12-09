@@ -81,7 +81,7 @@ Licencia
 
 Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo LICENSE para más información.
 ------------------------------------------------------------------------------------------------
-El aprendizaje de Python en un bootcamp me ha dejado una serie de habilidades y conocimientos que son clave para mi desarrollo profesional. A continuación, destaco lo más relevante:
+El aprendizaje de Python en el bootcamp me ha dejado una serie de habilidades y conocimientos que son clave para mi desarrollo profesional. A continuación, destaco lo más relevante:
 
 Fundamentos sólidos de programación
 Aprendí conceptos fundamentales como variables, estructuras de control (condicionales, bucles), funciones y manejo de errores, lo cual me proporciona una base sólida para abordar cualquier tipo de desarrollo en programación.
